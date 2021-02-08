@@ -33,18 +33,22 @@ export default {
 p {
   margin-top: 50px;
 }
+
 .superman {
   font-weight: 600;
   color: rgb(29, 250, 0);
 }
+
 .human {
   font-weight: 600;
   color: rgb(250, 171, 0);
 }
+
 .snail {
   font-weight: 600;
   color: rgb(250, 0, 0);
 }
+
 .rank {
   margin-top: 20px;
   font-size: 1.4rem;
